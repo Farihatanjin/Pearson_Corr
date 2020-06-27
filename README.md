@@ -1,5 +1,5 @@
 # Pearson_Corr
-Gene interaction Pearson correlation values
+Gene interaction Pearson correlation matrix
 
 1. Select relevant gene interactions from a larger dataset
 2. Generate a Pearson correlation matrix 
